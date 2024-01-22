@@ -1,0 +1,138 @@
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (20,'upali','panaudio',0),
+	 (45,'kadawatha_do','indeera@1974',0),
+	 (67,'boossa_do','8392',0),
+	 (79,'matugama_do','730719',0),
+	 (80,'wellawaya_do','dr0418',0),
+	 (88,'mirigama_do','742052524',0),
+	 (95,'chinabay_do','Y.K.P.R.T',0),
+	 (109,'nikaweratiya_do','marasinghe',0),
+	 (110,'keppitipola_de','Ranchi',0),
+	 (115,'boralanda_de','BI7556',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (133,'kadawatha_de2','kusum5555',0),
+	 (141,'kan_acc','herath2014',0),
+	 (145,'kal_acc','lak2014',0),
+	 (146,'mta_acc','matacc2014',0),
+	 (148,'col_acc','colstc@2020',0),
+	 (150,'pol_acc','1985@layan',0),
+	 (155,'mta_rm','tscpus',0),
+	 (157,'nuw_acc','ntskpt',0),
+	 (158,'anu_acc','rnwali2014',0),
+	 (162,'boo_acc','6403142014',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (165,'generalmanager','0218',0),
+	 (166,'dycia_ho','sur123',0),
+	 (169,'kep_acc','keaaac2014',0),
+	 (172,'dgm_mkt','dgmmkts',0),
+	 (174,'dgm_cia','marie',0),
+	 (175,'dgm_f','dgm_kgl',0),
+	 (501,'eliya_do5','nuwara@eliya123',0),
+	 (184,'temp_acc1','temp_acc1',0),
+	 (193,'temp_acc10','temp_acc10',0),
+	 (236,'timbolketiya_de','724087939',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (322,'kilinochchi_de','STCvara76',0),
+	 (330,'nainamadama_do2','19671230',0),
+	 (333,'mwachchiya_de3','mwpvr2016a',0),
+	 (337,'padiyathalawa_do3','wlp201628',0),
+	 (338,'ingiriya_do','doing2012',0),
+	 (343,'bingiriya_de2','20061220',0),
+	 (345,'dehiowita_do','dehiowita_do',0),
+	 (349,'ampsawmill_do','wtu2012',0),
+	 (356,'jaffna_de2','nall2012',0),
+	 (359,'boralanda_do3','88252',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (367,'nikaweratiya_de2','kpt2013',0),
+	 (369,'bingiriya_do2','ban613',0),
+	 (371,'puttlam_do2','8242800130',0),
+	 (375,'uwatuna_do2','th9528',0),
+	 (382,'ambgoda_do2','0718337163',0),
+	 (386,'anuradha_do3','sdnjay2014',0),
+	 (387,'kaduruwela_do4','dkkp711',0),
+	 (390,'ethgala_do3','sam2014',0),
+	 (392,'Piliyandala_do3','tmmc2015',0),
+	 (395,'thalawa_do1','vpsp2015',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (396,'timbolketiya_do4','timb8639',0),
+	 (397,'mwachchiya_do1','wka9707',0),
+	 (400,'nelundeniya_do3','nirusha1979',0),
+	 (401,'oddu_do2','mith2015',0),
+	 (405,'batticaloa_do4','pwmba2015',0),
+	 (406,'kilinochchi_do2','kelum2015kili',0),
+	 (416,'dela_do3','dela123',0),
+	 (430,'matugama_do2','780322',0),
+	 (433,'puttlam_do3','put_16shn',0),
+	 (419,'minneriya_do5','min_jgcn',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (437,'dgm_marketing','wbs5363',0),
+	 (447,'mgr_f3','nim12345',0),
+	 (412,'thalawa_do2','anu_thala',0),
+	 (420,'minneriya_do6','minn_agt',0),
+	 (431,'egodauyana_do2','egoda_na',0),
+	 (428,'naula_do','stcna123',0),
+	 (410,'mmulla_do2','uwer_mulla',0),
+	 (411,'willorawatta_do2','willora123',0),
+	 (424,'kaduruwela_do5','wa9615',0),
+	 (438,'kumbukkana_do4','kum9668',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (439,'nallur_do','tnd127262016',0),
+	 (441,'managerf1','newPassword',0),
+	 (443,'thalalla_do4','mrd8530',0),
+	 (444,'naulanew_do','naulabmma',0),
+	 (445,'naulanew_do1','naulatc89',0),
+	 (449,'pallekelle_do4','palle8106',0),
+	 (450,'dambulu_do5','nhm_2017',0),
+	 (453,'minneriya_do7','stc12716',0),
+	 (454,'kaldemulla_do5','12562dj',0),
+	 (455,'ratmalana_do4','6798923',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (456,'harasbedda_do3','1819',0),
+	 (459,'nelumdeniya_do5','hkdwmad',0),
+	 (460,'egodauyana_do3','ds8736',0),
+	 (462,'kurunegala_do4','hwd8181',0),
+	 (463,'beruwala_do3','nnv9862',0),
+	 (464,'kaldemulla_do6','kgisn9981',0),
+	 (465,'nelumdeniya_do6','9768kaap',0),
+	 (466,'kanmulla_do5','19751227',0),
+	 (469,'ambgoda_do3','tap7808',0),
+	 (470,'thalalla_de2','rpa1978',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (471,'wellawaya_do2','tw20196',0),
+	 (472,'hambantota_de3','muth201912',0),
+	 (473,'umaoya_do','baku816',0),
+	 (474,'unawatuna_do4','priya7639',0),
+	 (476,'matale_do3','mat_ytssy',0),
+	 (477,'umaoya_de1','uma_oya2019',0),
+	 (481,'beruwala_do4','wat8327',0),
+	 (480,'managerfone','stock2019*',0),
+	 (482,'managerit','ubuntu@1804',0),
+	 (484,'anuradha_do5','pwglmj12979',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (485,'thivanka','mkt@2020',0),
+	 (486,'Vauniya_do3','vauniyamkt123',0),
+	 (490,'pannipitiya_do5','pannipitiya123@',0),
+	 (492,'balangoda_do','do@2020',0),
+	 (493,'nelumdeniya_do7','nelum1234',0),
+	 (494,'nelumdeniya_do8','nelum123789',0),
+	 (495,'reporter_acc1','stock@2022',0),
+	 (496,'hthota_do4','wlk12034a',0),
+	 (497,'willorawatta_do3','wil_mkdk',0),
+	 (498,'kurunegala_do5','pc_12964',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (499,'kan_acc1','wmgmw_kan',0),
+	 (500,'jaff_acc2','wm13195tc',0),
+	 (502,'fnc_wjn','fnc_hgr',0),
+	 (503,'kaldemulla_do7','kal@123',0),
+	 (504,'ampara_do7','amparastc1234',0),
+	 (505,'ampara_do8','bnds_amp',0),
+	 (506,'kitulgala_do6','kitul123456',0),
+	 (508,'sum_mktn','sum_12579',0),
+	 (509,'sandun_mkt','san_mkt',0),
+	 (510,'batticaloa_do6','9511ewlm',0);
+INSERT INTO db_stock.users (user_id,username,password,status) VALUES
+	 (511,'research_div','stc@rdt',0),
+	 (512,'dela_thiv','dela_thiv',0),
+	 (513,'melsiripura_do4','hpbc12964',0),
+	 (514,'anuradha_do6','wpsp1977',0),
+	 (515,'keppitipola_do4','kep_pwmb',0);
